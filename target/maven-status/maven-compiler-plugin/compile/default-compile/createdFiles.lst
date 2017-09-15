@@ -1,0 +1,3 @@
+org/apache/spark/executor/CoarseGrainedExecutorBackend.class
+org/apache/hadoop/mapred/YarnChild.class
+hottub_tester/HTTester.class
